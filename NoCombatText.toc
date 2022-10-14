@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: NoCombatText
+## Notes: Toggles event text over player and pet frames
+## Version: 3.801.1
+## Author: Kanegasi
+## SavedVariablesPerCharacter: NoCombatText_SV
+
+nctcore.lua
